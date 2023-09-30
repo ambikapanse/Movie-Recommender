@@ -64,34 +64,4 @@ if st.button("Recommend"):
         for i in range(7, 10):
             with col3:
                 movie_component(i)
-    # col1,col2,col3,col4,col5,col6,col7,col8,col9,col10 = st.columns([0.2,0.2,0.2,0.2,0.2])
-    # with col1:
-    #     st.text(names[0])
-    #     st.image(posters[0])
-    # with col2:
-    #     st.text(names[1])
-    #     st.image(posters[1])
-    # with col3:
-    #     st.text(names[2])
-    #     st.image(posters[2])
-    # with col4:
-    #     st.text(names[3])
-    #     st.image(posters[3])
-    # with col5:
-    #     st.text(names[4])
-    #     st.image(posters[4])
-    # with col6:
-    #     st.text(names[5])
-    #     st.image(posters[5])
-    # with col7:
-    #     st.text(names[6])
-    #     st.image(posters[6])
-    # with col8:
-    #     st.text(names[7])
-    #     st.image(posters[7])
-    # with col9:
-    #     st.text(names[8])
-    #     st.image(posters[8])
-    # with col10:
-    #     st.text(names[9])
-    #     st.image(posters[9])
+    
